@@ -1,4 +1,4 @@
-# 🤖 Fake Account Detection in Social Media
+#  Fake Account Detection in Social Media
 ### Using Graph Analytics + Machine Learning | BDA Mini Project
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
@@ -30,8 +30,9 @@ This project builds an **automated detection system** using:
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
+```
 fake_account_project/
 │
 ├── data/
@@ -42,8 +43,7 @@ fake_account_project/
 ├── feature_engineering.py
 ├── model.py
 └── main.py
-
----
+```
 
 ##  Dataset
 
