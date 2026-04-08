@@ -1,7 +1,7 @@
 """
 Dataset columns used: User ID, Follower Count, Retweet Count, Mention Count
 
-Edge Logic (Viva explanation):
+Edge Logic :
   Since raw follower/following network data is not in this dataset,
   edges are built using BEHAVIOURAL heuristics:
     1. Users with high Mention Count → interact with top-follower accounts
