@@ -50,7 +50,7 @@ def train_models(df: pd.DataFrame):
         "Logistic Regression": LogisticRegression(max_iter=1000, random_state=42),
     }
 
-    results = {}
+    results = {} 
     print("\n" + "="*60)
     print("         MODEL COMPARISON RESULTS")
     print("="*60)
