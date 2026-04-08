@@ -8,7 +8,6 @@ Profile features → capture account statistics from dataset columns
 import networkx as nx
 import pandas as pd
 
-
 def extract_features(G: nx.DiGraph, df: pd.DataFrame) -> pd.DataFrame:
 
     # Graph-based features
