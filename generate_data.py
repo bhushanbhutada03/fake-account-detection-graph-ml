@@ -16,6 +16,7 @@ random.seed(42)
 
 N = 5000
 
+
 BOT_TWEETS = [
     "Follow me for follow back! #followback #follow",
     "Buy cheap followers now! Link in bio.",
